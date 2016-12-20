@@ -1,0 +1,13 @@
+{
+  "name": "node-express-static-web-server",
+  "version": "1.0.0",
+  "description": "Node Express Static Web Server",
+  "scripts": {
+    "start": "node web-server/app.js"
+  },
+  "author": "Kevin Chisholm",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.13.3"
+  }
+}
