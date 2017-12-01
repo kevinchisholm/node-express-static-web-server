@@ -1,0 +1,28 @@
+@import url("reset.css");
+
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+    font-size: 20px
+}
+h1 {
+    font-size: 32px;
+    font-weight: 700;
+    color: #0C2F58
+}
+.box {
+    width: 80%;
+    margin: 20px auto 0;
+    padding: 22px;
+    background-color: #ededed;
+    border: 1px solid #ccc;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-align: center
+}
+.box img {
+    width: 100%;
+    max-width: 400px;
+    margin: 20px 0 0;
+}
