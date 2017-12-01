@@ -24,13 +24,13 @@ git clone https://github.com/kevinchisholm/node-express-static-web-server.git
 npm install
 ````
 
-* 3) Run this command:
+* 3 Run this command:
 
 ````
 npm start
 ````
 
-* 4) Point your browser to:
+* 4 Point your browser to:
 
 ````
 http://localhost:3000
